@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.test {
+  margin: 20px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.test2 {
+  margin-top: -80px;
+  margin-left: -150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
